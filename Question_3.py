@@ -1,6 +1,6 @@
 l=[10,11,12,13,14,15,16,17,18,19,20]
 even=0
-odd=even
+odd=0
 for i in l:
     if i%2==0:
         even=even+1
